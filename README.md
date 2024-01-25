@@ -4,17 +4,15 @@ This Python script automates the process of creating mobile applications for exi
 
 ## Screenshots
 
-![Screenshot 1](./screenshots/0.jpg)
-_Genrated Mobile apps_
+<div align="center">
+  <img src="./screenshots/0.jpg" alt="Genrated Mobile apps" height="400" />
+  <img src="./screenshots/1.jpg" alt="Menuspk" height="400" />
+</div>
 
-![Screenshot 2](./screenshots/1.jpg)
-_Menuspk_
-
-![Screenshot 3](./screenshots/2.jpg)
-_Youngstr Youtube_
-
-![Screenshot 4](./screenshots/3.jpg)
-_Youngstr Google_
+<div align="center">
+  <img src="./screenshots/2.jpg" alt="Youngstr Youtube" height="400" />
+  <img src="./screenshots/3.jpg" alt="Youngstr Google" height="400" />
+</div>
 
 ## Prerequisites
 
