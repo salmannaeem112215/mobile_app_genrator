@@ -1,50 +1,10 @@
 [
   {
-    "path": "C:/SALMAN/gits/web_app_cerater",
-    "name": "menuspk",
-    "domain": "com.menuspk",
-    "description": "Discover endless possibilities with menuspk.com. your go-to destination for modern website templates, from e-commerce and portfolios to food and digital marketing, all designed for easy customization and a standout online presence.",
-    "imgPath": "C:/SALMAN/gits/web_app_cerater/menuspk.png",
-    "url": "https://menuspk.com"
-  },
-  {
-    "path": "C:/SALMAN/gits/web_app_cerater",
-    "name": "menuspk1",
-    "domain": "com.menuspk",
-    "description": "Discover endless possibilities with menuspk.com. your go-to destination for modern website templates, from e-commerce and portfolios to food and digital marketing, all designed for easy customization and a standout online presence.",
-    "imgPath": "C:/SALMAN/gits/web_app_cerater/menuspk.png",
-    "url": "https://menuspk.com"
-  },
-  {
-    "path": "C:/SALMAN/gits/web_app_cerater",
-    "name": "menuspk2",
-    "domain": "com.menuspk",
-    "description": "Discover endless possibilities with menuspk.com. your go-to destination for modern website templates, from e-commerce and portfolios to food and digital marketing, all designed for easy customization and a standout online presence.",
-    "imgPath": "C:/SALMAN/gits/web_app_cerater/menuspk.png",
-    "url": "https://menuspk.com"
-  },
-  {
-    "path": "C:/SALMAN/gits/web_app_cerater",
-    "name": "menuspk3",
-    "domain": "com.menuspk",
-    "description": "Discover endless possibilities with menuspk.com. your go-to destination for modern website templates, from e-commerce and portfolios to food and digital marketing, all designed for easy customization and a standout online presence.",
-    "imgPath": "C:/SALMAN/gits/web_app_cerater/menuspk.png",
-    "url": "https://menuspk.com"
-  },
-  {
-    "path": "C:/SALMAN/gits/web_app_cerater",
-    "name": "menuspk4",
-    "domain": "com.menuspk",
-    "description": "Discover endless possibilities with menuspk.com. your go-to destination for modern website templates, from e-commerce and portfolios to food and digital marketing, all designed for easy customization and a standout online presence.",
-    "imgPath": "C:/SALMAN/gits/web_app_cerater/menuspk.png",
-    "url": "https://menuspk.com"
-  },
-  {
-    "path": "C:/SALMAN/gits/web_app_cerater",
-    "name": "menuspk5",
-    "domain": "com.menuspk",
-    "description": "Discover endless possibilities with menuspk.com. your go-to destination for modern website templates, from e-commerce and portfolios to food and digital marketing, all designed for easy customization and a standout online presence.",
-    "imgPath": "C:/SALMAN/gits/web_app_cerater/menuspk.png",
-    "url": "https://menuspk.com"
+    "path": "C:/SALMAN/gits/web_app_cerater/apps",
+    "name": "youngstr_youtube",
+    "domain": "com.youtube",
+    "description": "YOUNGSTR YOUTUBE MOBILE APP",
+    "imgPath": "C:/SALMAN/gits/web_app_cerater/app_icons/youtube.png",
+    "url": "https://www.youtube.com"
   }
 ]

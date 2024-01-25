@@ -194,7 +194,7 @@ def build_flutter_project(project_path):
 def add_web_view_code(path,url, title):
     main_file = '/lib/main.dart'
     web_view_file = '/lib/web_view.dart'
-    constant_file = '/lib/constants.dart'
+    constant_file = '/lib/config.dart'
     constant_file_content = f'''const String kURL = '{url}';
 const String kAPPNAME = '{title}';
 '''
@@ -237,13 +237,12 @@ def create_app(path,name,domain,imgPath,url,description):
     build_gradle_path = project_path+'/android/app/build.gradle'
 
     create_project(path=path,name=name,domain=domain,description=description)
-    # add_permission_to_manifest(manifest_path)
-    # update_key_properties(key_path)
-    # update_build_gradle(build_gradle_path)
-    # generate_icon_folders(imgPath,project_path=project_path)
-    # add_web_view_code(path= project_path,title=name,url=url,)
-
-    # build_flutter_project(project_path) 
+    add_permission_to_manifest(manifest_path)
+    update_key_properties(key_path)
+    update_build_gradle(build_gradle_path)
+    generate_icon_folders(imgPath,project_path=project_path)
+    add_web_view_code(path= project_path,title=name,url=url,)
+    build_flutter_project(project_path) 
 
 
 def read_parameters():
