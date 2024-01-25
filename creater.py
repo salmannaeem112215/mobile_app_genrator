@@ -238,7 +238,7 @@ def create_app(path,name,domain,imgPath,url,description):
 
     create_project(path=path,name=name,domain=domain,description=description)
     add_permission_to_manifest(manifest_path)
-    update_key_properties(key_path)
+    update_key_properties(key_path)  
     update_build_gradle(build_gradle_path)
     generate_icon_folders(imgPath,project_path=project_path)
     add_web_view_code(path= project_path,title=name,url=url,)

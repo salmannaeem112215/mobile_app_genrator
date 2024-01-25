@@ -21,6 +21,17 @@ Before running the script, ensure that you have the following installed:
 - [Flutter](https://flutter.dev/docs/get-started/install)
 - [Dart](https://dart.dev/get-dart)
 
+Additionally, make sure to have a signing key generated for building the app as a release. Follow these steps:
+
+1. **Generate Signing Key:**
+
+   - You must have a signing key to build the app for release.
+   - Follow the Flutter documentation on [Signing your app](https://flutter.dev/docs/deployment/android#signing-the-app) to generate a signing key.
+
+2. **Update Key Properties:**
+   - Open the script and locate the `update_key_properties` function (usually at line 241).
+   - Enter the path and passwords for your signing key inside the function to ensure proper app signing.
+
 ## Usage
 
 ### Single App Generation (creater.py)
